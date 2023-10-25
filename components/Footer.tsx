@@ -1,7 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
 import { FOOTER_CONTACT_INFO, FOOTER_LINKS, SOCIALS } from "@/constants";
-import { div } from "three/examples/jsm/nodes/Nodes.js";
 
 type FooterColumnProps = {
   title: string;
